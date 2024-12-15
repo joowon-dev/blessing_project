@@ -11950,7 +11950,7 @@ function a0({ onLogin: e }) {
           }),
           oe.jsx(Ba, {
             type: "text",
-            placeholder: "생년월일 (YYYY-MM-DD)",
+            placeholder: "생년월일 (YYYYMMDD)",
             value: r,
             onChange: (o) => i(o.target.value),
           }),
